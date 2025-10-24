@@ -29,6 +29,3 @@ Detecting fraud is crucial for financial institutions to prevent losses and ensu
 | ------------- | --------- | --------- | ------- | -------- |
 | Random Forest | 99.94%    | 96.97%    | 74.42%  | 84.21%   |
 
-
-###  Acknowledgments
-Dataset: https://media.geeksforgeeks.org/wp-content/uploads/20240904104950/creditcard.csv
